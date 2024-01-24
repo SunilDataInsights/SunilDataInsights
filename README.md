@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunilDataInsights
 - 👀  I'm passionate about data science, machine learning, and exploring innovative ways to derive insights from data.
-- 🌱  I'm currently learning and enhancing my skills in Python, SQL, powerBI and data visualization tools like Matplotlib and Seaborn.
+- 🌱  I'm currently learning and enhancing my skills in MS-Excel, Python, SQL, powerBI and data visualization tools like Matplotlib and Seaborn.
 -     I'm also diving into advanced machine learning techniques and deepening my understanding of data preprocessing.
 - 💞️ I'm open to collaboration on projects related to data analytics, machine learning, or any exciting opportunities that align with my interests.
 - 📫 You can reach me through email at sysunilyadav007@gmail.com or connect with me on https://www.linkedin.com/in/sunil-yadav-6235ab185/
